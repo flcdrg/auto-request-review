@@ -16,14 +16,14 @@
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
     "lodash": "^4.17.21",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.1.5",
     "yaml": "^1.10.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
     "chai": "^4.2.0",
     "eslint": "^7.7.0",
-    "mocha": "^8.1.2",
+    "mocha": "^11.7.5",
     "nyc": "^15.1.0",
     "sinon": "^9.0.3"
   },
